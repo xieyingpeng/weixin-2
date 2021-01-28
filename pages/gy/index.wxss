@@ -1,0 +1,7 @@
+/* pages/gy/index.wxss */
+view{
+    
+    height: 504px;
+    width: 320px;
+    background: burlywood;
+}

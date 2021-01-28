@@ -1,0 +1,10 @@
+<!--pages/gy/index.wxml-->
+<view>
+    <text>我叫谢应鹏，我是楚雄师范学院的一名大二在校学生，
+    由于技术有限，现在这个小程序也只是一个体验版，
+    我正在努力学习中。个人交流平台：
+    github网址：https://github.com/xieyingpeng/No1.git
+    博客园网址：https://www.cnblogs.com/Xieyingpeng/ 
+</text>
+</view>
+
